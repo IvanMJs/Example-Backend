@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Ivàn Meyer",
+        "profession" : "Full Stack Developer",
+        "photo" :"",
+        "about_me": "Soy un entusiasta de las tecnologìas, amo hacer desarrollo web y confio en la colaboraciòn",
+        "skills":[
+            "Javascript",
+            "NodeJs",
+            "ReactJs",
+            "Java",
+            "C#"
+        ] 
+    }
+]
