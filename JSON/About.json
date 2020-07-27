@@ -3,7 +3,7 @@
         "name": "Ivàn Meyer",
         "profession" : "Full Stack Developer",
         "photo" :"https://i.ibb.co/NS8dYpy/images.jpg",
-        "about_me": "Soy un entusiasta de las tecnologìas, amo hacer desarrollo web y confio en la colaboraciòn",
+        "about_me": "Soy un entusiasta de las tecnologìas, amo hacer desarrollo web y confio en la colaboraciòn, realice este proyecto usando NodeJs, Express y React como Front",
         "skills":[
             "Javascript",
             "NodeJs",
