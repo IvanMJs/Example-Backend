@@ -2,7 +2,7 @@
     {
         "name": "Ivàn Meyer",
         "profession" : "Full Stack Developer",
-        "photo" :"",
+        "photo" :"https://i.ibb.co/NS8dYpy/images.jpg",
         "about_me": "Soy un entusiasta de las tecnologìas, amo hacer desarrollo web y confio en la colaboraciòn",
         "skills":[
             "Javascript",

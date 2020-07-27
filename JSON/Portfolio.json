@@ -2,14 +2,14 @@
     {
         "name": "Proyecto 1",
         "descripcion" : "Utilice html y css para trabajar con los estilos",
-        "image" :"",
+        "image" :"https://i.ibb.co/Vx3BLnr/images2.jpg",
         "link": "LINK 1"
     },
     {
             
         "name":"Proyecto 2",
         "descripcion" : "Utilice html y css para trabajar con los estilos",
-        "image" :"",
+        "image" :"https://i.ibb.co/Vx3BLnr/images2.jpg",
         "link": "LINK 2"
     }
 ]
